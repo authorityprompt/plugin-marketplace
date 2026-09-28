@@ -2,7 +2,7 @@
   "version": 1,
   "plugins": {
     "authorityprompt": {
-      "sha": "f8511546be57d034390c51bba59f62edf0d8464a",
+      "sha": "dbd109470b4175fb01d08e6dc9834ccde9245095",
       "version": "0.2.0",
       "components": {
         "mcpServers": [
